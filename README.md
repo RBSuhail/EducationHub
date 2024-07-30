@@ -70,8 +70,28 @@
 <p>Distributed under the MIT License. See <code>LICENSE</code> for more information.</p>
 
 <h2 align="center">Contact</h2>
-<p>Vishwas Awasthi- <a href="mailto:your-vishwasawasthi948@example.com">vishwasawasthi948@example.com</a></p>
-<p>Suhail Ahmad- <a href="mailto:your-rbsuhail123@example.com">rbsuhail123@example.com</a></p>
-<p>Sumit Saroj- <a href="mailto:your-sumitsaroj123@example.com">sumitsaroj123@example.com</a></p>
+<p>
+  Vishwas Awasthi - 
+  <a href="mailto:vishwasawasthi948@example.com">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email Icon" style="width:20px;height:20px;"/>
+  </a>
+</p>
+<p>
+  Suhail Ahmad - 
+  <a href="mailto:rbsuhail123@example.com">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email Icon" style="width:20px;height:20px;"/>
+  </a>
+</p>
+<p>
+  Sumit Saroj - 
+  <a href="mailto:sumitsaroj123@example.com">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email Icon" style="width:20px;height:20px;"/>
+  </a>
+</p>
+<p>
+  Project Link: 
+  <a href="https://studynotion-frontend-tau.vercel.app/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/link.png" alt="Project Link Icon" style="width:20px;height:20px;"/>
+  </a>
+</p>
 
-<p>Project Link: <a href="https://studynotion-frontend-tau.vercel.app/">https://studynotion-frontend-tau.vercel.app/</a></p>
