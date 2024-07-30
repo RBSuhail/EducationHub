@@ -70,5 +70,8 @@
 <p>Distributed under the MIT License. See <code>LICENSE</code> for more information.</p>
 
 <h2 align="center">Contact</h2>
-<p>Your Name - <a href="mailto:your-email@example.com">your-email@example.com</a></p>
-<p>Project Link: <a href="https://github.com/your_username/repo_name">https://github.com/your_username/repo_name</a></p>
+<p>Vishwas Awasthi- <a href="mailto:your-vishwasawasthi948@example.com">your-email@example.com</a></p>
+<p>Suhail Ahmad- <a href="mailto:your-rbsuhail123@example.com">your-email@example.com</a></p>
+<p>Sumit Saroj- <a href="mailto:your-sumitsaroj123@example.com">your-email@example.com</a></p>
+
+<p>Project Link: <a href="https://studynotion-frontend-tau.vercel.app/">https://github.com/your_username/repo_name</a></p>
