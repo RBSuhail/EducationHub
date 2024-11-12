@@ -88,10 +88,6 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email Icon" style="width:20px;height:20px;"/>
   </a>
 </p>
-<p>
-  Project Link: 
-  <a href="https://studynotion-frontend-tau.vercel.app/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/link.png" alt="Project Link Icon" style="width:20px;height:20px;"/>
-  </a>
+<p> 
 </p>
 
